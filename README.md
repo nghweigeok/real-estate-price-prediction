@@ -4,6 +4,6 @@
 
 Try the demo: https://mybinder.org/v2/gh/nghweigeok/real-estate-price-prediction/HEAD?urlpath=%2Fvoila%2Fbinder%2Freal-estate-ui.ipynb
 
-![alt text](https://github.com/nghweigeok/real-estate-price-prediction/blob/HEAD/binder_config.jpg?raw=true)
+![Image](binder_config.jpg)
 
-![alt text](https://github.com/nghweigeok/real-estate-price-prediction/blob/HEAD/ui_prediction.jpg?raw=true)
+![Image](ui_prediction.jpg)
