@@ -4,6 +4,10 @@
 
 Try the demo: https://mybinder.org/v2/gh/nghweigeok/real-estate-price-prediction/HEAD?urlpath=%2Fvoila%2Fbinder%2Freal-estate-ui.ipynb
 
-![Image](binder_config.jpg)
+<div align="center">
+    <img src="/binder_config.jpg" width="400px"</img> 
+</div>
 
-![Image](ui_prediction.jpg)
+<div align="center">
+    <img src="/ui_prediction.jpg" width="400px"</img> 
+</div>
