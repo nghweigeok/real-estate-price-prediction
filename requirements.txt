@@ -20,7 +20,7 @@ joblib==1.0.0
 jsonschema==3.2.0
 jupyter-client==6.1.11
 jupyter-core==4.7.0
-jupyter-server==1.2.3
+jupyter-server==1.17.0
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 MarkupSafe==1.1.1
@@ -29,8 +29,8 @@ nbclient==0.5.1
 nbconvert==6.0.7
 nbformat==5.1.2
 nest-asyncio==1.5.1
-notebook==6.4.1
-numpy==1.21
+notebook==6.4.10
+numpy==1.22
 packaging==20.8
 pandas==1.2.1
 pandocfilters==1.4.3
